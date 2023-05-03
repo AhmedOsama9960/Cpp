@@ -10,7 +10,7 @@
 #include <cstdint>
 /*---------------------------------------------Configurations --------------------------------*/
 
-typedef uint8_t	Machine_Arch;
+typedef uint8_t	Machine_Arch;		// depends on the Machine Arch if 8bits or 16, etc.
 /*---------------------------------------------Namespaces --------------------------------*/
 
 namespace MCAL
